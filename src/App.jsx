@@ -1,10 +1,11 @@
 import './App.css'
+import Icon from './components/Icon/Icon'
 
 function App() {
 
   return (
     <>
-    <h1>Hey there!</h1>     
+    <Icon name="cross"/>    
     </>
   )
 }
