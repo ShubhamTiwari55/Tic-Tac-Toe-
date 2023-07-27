@@ -6,7 +6,7 @@ Additionally, there is a functionality to reset the game at any time.
 
 # Getting Started
 
-# prerequisites
+# Prerequisites
 Before running the Tic-Tac-Toe game, make sure you have the following installed on your system:
 
 Node.js (at least version 12.x)
