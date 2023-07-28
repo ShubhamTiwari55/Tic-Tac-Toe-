@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Card from "../card/Card";
+import Card from "../Card/Card";
 import './Grid.css';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
