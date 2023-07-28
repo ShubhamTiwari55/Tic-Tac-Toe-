@@ -34,6 +34,9 @@ function Grid({numberOfCards}){
         setBoard([...board]);
         setTurn(!turn);
     }
+
+    //we can use a hook useCallback to optimise so that the play function don't re-render upon thr=e grid everytime//
+    
     function reset(){
         setBoard(Array(numberOfCards).fill(""));
         setWinner(null);
